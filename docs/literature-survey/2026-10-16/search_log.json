@@ -1,0 +1,149 @@
+{
+ "date": "2026-10-16",
+ "searches": [
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q1.json",
+   "results": 20
+  },
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q2.json",
+   "results": 20
+  },
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q3.json",
+   "results": 20
+  },
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q4.json",
+   "results": 20
+  },
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q5.json",
+   "results": 20
+  },
+  {
+   "source": "paper_search.py (arXiv; S2 429, DBLP error)",
+   "file": "q6.json",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r1.json",
+   "query": "Kline-Fogleman airfoil",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r10.json",
+   "query": "step airfoil vortex lift augmentation",
+   "results": 15
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r11.json",
+   "query": "low Reynolds number airfoil design UAV XFOIL",
+   "results": 12
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r12.json",
+   "query": "ArduPilot open-source autopilot fixed-wing research",
+   "results": 15
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r13.json",
+   "query": "UAV wind estimation onboard sensors fixed-wing",
+   "results": 12
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r14.json",
+   "query": "New airfoil-design concept with improved aerodynamic characteristics Fertis",
+   "results": 3
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r15.json",
+   "query": "airfoil with step-induced vortex for lift augmentation Finaish",
+   "results": 3
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r16.json",
+   "query": "XFOIL analysis and design system for low Reynolds number airfoils Drela",
+   "results": 3
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r17.json",
+   "query": "stability-constrained aerodynamic shape optimization of flying wings",
+   "results": 3
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r18.json",
+   "query": "Aircraft System Identification Theory and Practice Klein Morelli",
+   "results": 3
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r19.json",
+   "query": "Steps to build a DIY low-cost fixed-wing drone for biodiversity conservation",
+   "results": 2
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r2.json",
+   "query": "stepped airfoil low Reynolds number",
+   "results": 15
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r3.json",
+   "query": "flying wing UAV design stability reflex",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r4.json",
+   "query": "tailless flying wing small UAV aerodynamic design",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r5.json",
+   "query": "UAV payload airdrop release point accuracy fixed-wing",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r6.json",
+   "query": "small UAV aerodynamic system identification flight test",
+   "results": 20
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r7.json",
+   "query": "fixed-wing UAV photogrammetry OpenDroneMap orthomosaic accuracy",
+   "results": 15
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r8.json",
+   "query": "electric propulsion system sizing small fixed-wing UAV battery motor propeller",
+   "results": 15
+  },
+  {
+   "source": "OpenAlex",
+   "file": "r9.json",
+   "query": "foam wing UAV manufacturing hot wire CNC low-cost",
+   "results": 5
+  }
+ ]
+}

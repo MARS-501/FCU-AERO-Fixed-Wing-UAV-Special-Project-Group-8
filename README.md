@@ -23,6 +23,7 @@
 ├── docs/
 │   ├── fos-uav-analysis.md       FOS_UAV 專案分析與可貢獻項目
 │   ├── v4-stingray-taiwan-bom.md V4.0 簡述與台灣採購報價
+│   ├── literature-survey/        文獻調查報告（研究方向提案、BibTeX、原始搜尋資料）
 │   ├── upstream-projects.md      候選上游專案評估與建議
 │   ├── contribution-workflow.md  向上游貢獻的標準流程與各專案規範
 │   └── dev-setup-macos.md        macOS (Apple Silicon) 開發環境建置
@@ -79,6 +80,7 @@ This folder is the team's shared workspace. It holds:
 ├── docs/
 │   ├── fos-uav-analysis.md       FOS_UAV analysis and contribution opportunities
 │   ├── v4-stingray-taiwan-bom.md V4.0 summary and Taiwan parts quote
+│   ├── literature-survey/        Literature survey (research proposals, BibTeX, raw search data)
 │   ├── upstream-projects.md      Candidate upstream projects and recommendation
 │   ├── contribution-workflow.md  Standard upstream workflow and per-project conventions
 │   └── dev-setup-macos.md        macOS (Apple Silicon) environment setup
