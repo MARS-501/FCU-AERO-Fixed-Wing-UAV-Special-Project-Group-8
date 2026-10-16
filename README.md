@@ -21,6 +21,7 @@
 ├── CLAUDE.md                     給 Claude Code 的專案背景
 ├── LICENSE                       MIT（僅適用於本工作區自己的文件與腳本）
 ├── docs/
+│   ├── course/                   系上課程規範（PDF＋文字版）與已確認的專案限制
 │   ├── fos-uav-analysis.md       FOS_UAV 專案分析與可貢獻項目
 │   ├── v4-stingray-taiwan-bom.md V4.0 簡述與台灣採購報價
 │   ├── literature-survey/        文獻調查報告（研究方向提案、BibTeX、原始搜尋資料）
@@ -78,6 +79,7 @@ This folder is the team's shared workspace. It holds:
 ├── CLAUDE.md                     Project context for Claude Code
 ├── LICENSE                       MIT (covers only this workspace's own docs and scripts)
 ├── docs/
+│   ├── course/                   Course rules (PDF + text) and confirmed project constraints
 │   ├── fos-uav-analysis.md       FOS_UAV analysis and contribution opportunities
 │   ├── v4-stingray-taiwan-bom.md V4.0 summary and Taiwan parts quote
 │   ├── literature-survey/        Literature survey (research proposals, BibTeX, raw search data)
