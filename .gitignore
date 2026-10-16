@@ -1,0 +1,21 @@
+# Local clones of upstream forks (each has its own git history)
+upstream/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Flight logs and SITL output (can be large; share via issue attachments instead)
+*.bin
+*.ulg
+*.tlog
+logs/
+eeprom.bin
